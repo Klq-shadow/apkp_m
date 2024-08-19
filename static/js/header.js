@@ -14,13 +14,13 @@ var $header = `<header id="header">
       </div>
 
       <div class="item nav_home searching-hide">
-        <a href="/index.html" class="dt_nav_button">
+        <a href="./index.html" class="dt_nav_button">
           <i class="icon icon_home"></i>
           <span class="dt_menu_text">Home</span>
         </a>
       </div>
       <div class="item searching-hide">
-        <a class="dt_nav_button nav-g" href="/game.html">
+        <a class="dt_nav_button nav-g" href="./game.html">
           <i class="icon icon_game"></i>
           <span class="dt_menu_text">Games</span>
         </a>

@@ -148,7 +148,7 @@ input[type=submit] {
 }
 
 .nav_container .icon {
-    background: url(/static/images/svg_icon.svg) no-repeat;
+    background: url(../../static/images/svg_icon.svg) no-repeat;
     width: 24px;
     height: 24px
 }
