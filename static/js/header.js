@@ -26,19 +26,19 @@ var $header = `<header id="header">
         </a>
       </div>
       <div class="item searching-hide">
-        <a class="dt_nav_button nav-a" href="/game.html">
+        <a class="dt_nav_button nav-a" href="./game.html">
           <i class="icon icon_app"></i>
           <span class="dt_menu_text">Apps</span>
         </a>
       </div>
       <div class="item many searching-hide" id="article_item">
-        <a class="nav-article dt_nav_button dt-nav-parent" href="/news.html">
+        <a class="nav-article dt_nav_button dt-nav-parent" href="./news.html">
           <i class="icon icon_article"></i>
           <span class="dt_menu_text">News</span>
         </a>
       </div>
       <div class="item many searching-hide">
-        <a class="nav-p dt_nav_button dt-nav-parent" href="/topics.html">
+        <a class="nav-p dt_nav_button dt-nav-parent" href="./topics.html">
           <i class="icon icon_product"></i>
           <span class="dt_menu_text">Topics</span>
         </a>
@@ -47,7 +47,7 @@ var $header = `<header id="header">
     <button type="button" class="menu_btn" onclick="openMenu()">
       <i class="icon icon_menu"></i>
     </button>
-    <a class="search_btn" title="search" href="/search-index.html">
+    <a class="search_btn" title="search" href="./search-index.html">
       <i class="icon icon_search"></i>
     </a>
   </div>
