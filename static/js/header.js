@@ -1,10 +1,10 @@
 var $header = `<header id="header">
   <div class="nav_container">
-    <h1 class="logo">
+    <div class="logo">
       <a title="APKPure" href="https://apkpure.net/">
         <img class="m_logo" src="https://static.apkpure.com/mobile/static/imgs/logo_v1.png" height="24" width="100" alt="Logo" />
       </a>
-    </h1>
+    </div>
     <div class="shadow" id="shadow" onclick="closeMenu()"></div>
     <div class="nav_new" id="nav_new">
       <div class="item close_item">
